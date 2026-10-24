@@ -116,7 +116,7 @@ def parse_range_header(range_header: str, file_size: int) -> tuple[int, int]:
 
 # @routes.get("/", allow_head=True)
 # async def root_redirect(request):
-#     raise web.HTTPFound("https://t.me/rdxmovie_hd")
+#     raise web.HTTPFound("https://t.me/AlluTvSerials")
 
 
 @routes.get("/", allow_head=True)
