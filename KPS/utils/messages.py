@@ -139,19 +139,19 @@ MSG_BUTTON_CLOSE = "✖ Close"
 
 MSG_WELCOME = (
     "🌟 **Welcome, {user_name}!** 🌟\n\n"
-    "I'm **RDX File to Link Bot** ⚡\n"
+    "I'm **Anujith Allutvserials File to Link Bot** ⚡\n"
     "I generate direct download and streaming links for your files.\n\n"
     "**How to use:**\n"
     "1. Send any file to me for private links.\n"
     "2. In groups, reply to a file with `/link`.\n\n"
     "» Use `/help` for all commands and detailed information.\n\n"
     "🚀 Send a file to begin!\n\n"
-    "❤️ **Powered by RDX MOVIE HD**\n"
-    "📢 https://t.me/rdxmovie_hd"
+    "❤️ **Powered by Anujith Allutvserials**\n"
+    "📢 https://t.me/Allutvserials"
 )
 
 MSG_HELP = (
-    "📘 **RDX Bot - Help Guide** 📖\n\n"
+    "📘 **Anujith Allutvserials Bot - Help Guide** 📖\n\n"
     "How to get direct download & streaming links:\n\n"
     "**🚀 Private Chat (with me):**\n"
     "> 1. Send me **any file** (document, video, audio, photo, etc.).\n"
@@ -179,11 +179,11 @@ MSG_HELP = (
     "> • If you encounter a rate limit message, please wait the specified time. ⏳\n"
     "> • For `/link` in groups to work reliably (and for private link delivery), ensure you've started a private chat with me first.\n"
     "> • Processing batch files might take a bit longer. Please be patient. 🐌\n\n"
-    "❓ Questions? Join our channel for updates: https://t.me/rdxmovie_hd"
+    "❓ Questions? Join our channel for updates: https://t.me/Allutvserials"
 )
 
 MSG_ABOUT = (
-    "🌟 **About RDX File to Link Bot** ℹ️\n\n"
+    "🌟 **About Anujith Allutvserials File to Link Bot** ℹ️\n\n"
     "I'm your go-to bot for **instant download & streaming!** ⚡\n\n"
     "**🚀 Key Features:**\n"
     "> **Instant Links:** Get your links within seconds.\n"
@@ -196,8 +196,8 @@ MSG_ABOUT = (
     "> **Batch Mode:** Process multiple files at once in groups using `/link <number>`.\n"
     "> **Versatile Usage:** Works in private chats, groups, and channels (with admin setup).\n\n"
     "💖 If you find me useful, please consider sharing me with your friends!\n\n"
-    "⚡ **Powered by RDX MOVIE HD**\n"
-    "📢 https://t.me/rdxmovie_hd"
+    "⚡ **Powered by Anujith Allutvserials**\n"
+    "📢 https://t.me/Allutvserials"
 )
 
 # ------ Ping ------
